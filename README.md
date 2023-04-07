@@ -1,7 +1,5 @@
 This is a rice for the GNOME desktop environment.
 
-DON'T INSTALL THE MUTTER ROUNDED ON DISTROS THAT ARE NOT 22.04-BASED, thank you!
-
 I recommend making a TimeShift backup just to be cautious, especially if you're going to install the mutter-rounded!
 
 To install, simply run the scripts you want to install as root. This will give you the same look as mine. After installation, you'll need to set the theme and icons via GNOME Tweak Tool.
