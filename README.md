@@ -8,8 +8,6 @@ For mutter settings, run "gjs dist/mutter_settings.js" in the terminal after ins
 
 For tiles i used Pop-Shell Gnome Extension
 
-For the gradient in Neofetch output i used LolCat and added "neofetch | lolcat" to .bashrc file
-
 The theme isn't finished yet. If you like it, please check back soon for updates.
 
 
